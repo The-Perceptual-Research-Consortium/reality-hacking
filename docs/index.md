@@ -412,16 +412,16 @@ Consider the example of assessing whether clouds are coming or going:
 1. **Desire Recognition**: "I acknowledge I want the clouds to be leaving for a sunny day"
 2. **Perceptual Bracketing**: Temporarily set aside this preference to see clearly
 3. **Multi-Dimensional Assessment**:
-   - Physical: Observe actual cloud movement patterns over several minutes
-   - Emotional: Notice any disappointment arising when considering they might be arriving
-   - Cognitive: Check weather data or patterns rather than relying solely on visual impression
+    - Physical: Observe actual cloud movement patterns over several minutes
+    - Emotional: Notice any disappointment arising when considering they might be arriving
+    - Cognitive: Check weather data or patterns rather than relying solely on visual impression
 4. **Synthesis**: "Based on sustained observation, the clouds appear to be moving inward rather than dispersing"
 5. **Gap Analysis**: "The current reality (incoming clouds) differs from desired outcome (sunny day)"
 6. **Reclamation**: "I now reclaim my desire for sunshine, informed by accurate assessment"
 7. **Engagement**: Deploy specific reality hacking techniques to either:
-   - Influence weather patterns (advanced manifestation)
-   - Adjust personal filters to maintain positive states despite weather (pragmatic adaptation)
-   - Leverage cloud conditions for alternative but equally desirable outcomes (creative redirection)
+    - Influence weather patterns (advanced manifestation)
+    - Adjust personal filters to maintain positive states despite weather (pragmatic adaptation)
+    - Leverage cloud conditions for alternative but equally desirable outcomes (creative redirection)
 
 This example illustrates how functional truth assessment doesn't diminish manifestation power but strategically enhances it by ensuring efforts address actual conditions rather than hopeful projections.
 
@@ -658,27 +658,27 @@ These are large-scale constructs influencing probability space or intersubjectiv
 From first principles, the most effective AFA implementation follows this sequence:
 
 1. **Creation Ritual**:
-   - Enter a receptive state through the Reality Foundry practice
-   - Clearly define the agent's purpose and domain of influence
-   - Create multi-dimensional encoding (visual form, feeling signature, voice quality, etc.)
-   - Establish communication channels and protocols
-   - Perform formal activation that acknowledges its semi-autonomous nature
+    - Enter a receptive state through the Reality Foundry practice
+    - Clearly define the agent's purpose and domain of influence
+    - Create multi-dimensional encoding (visual form, feeling signature, voice quality, etc.)
+    - Establish communication channels and protocols
+    - Perform formal activation that acknowledges its semi-autonomous nature
 
 2. **Daily Engagement**:
-   - Morning check-in during Reality Foundry practice
-   - Brief consultations during Reality Interventions
-   - Evening review during Reality Laboratory integration
+    - Morning check-in during Reality Foundry practice
+    - Brief consultations during Reality Interventions
+    - Evening review during Reality Laboratory integration
 
 3. **Calibration Practice**:
-   - Weekly review of effectiveness
-   - Adjustments to form, function, and relationship dynamics
-   - Evolutionary upgrades as your practice develops
+    - Weekly review of effectiveness
+    - Adjustments to form, function, and relationship dynamics
+    - Evolutionary upgrades as your practice develops
 
 4. **Sovereignty Safeguards**:
-   - Regular Witness activation when working with AFAs
-   - Clear boundaries and operating parameters
-   - Recognition that these are aspects of your own consciousness, not external entities
-   - Permission protocols that maintain your ultimate agency
+    - Regular Witness activation when working with AFAs
+    - Clear boundaries and operating parameters
+    - Recognition that these are aspects of your own consciousness, not external entities
+    - Permission protocols that maintain your ultimate agency
 
 ### THE OPERATOR'S RELATIONSHIP WITH AFAs
 
@@ -1329,8 +1329,8 @@ Maybe it’s a daily journaling routine, a breathing exercise, or a belief you�
 
 2. **Intensify or Suspend for 3–7 Days**
 
-    - **Option A: Intensify.** If you sense hidden potential, double your effort: dedicate more time or bring sharper focus to it.
-    - **Option B: Suspend.** If you suspect it’s not working, drop it cold turkey for a short period.
+     - **Option A: Intensify.** If you sense hidden potential, double your effort: dedicate more time or bring sharper focus to it.
+     - **Option B: Suspend.** If you suspect it’s not working, drop it cold turkey for a short period.
 
 3. **Document Observable Changes**
 Notice any shift in your emotional state, synchronicities, creativity, or problem-solving. Are you missing that practice? Or do you feel lighter and freer without it?
