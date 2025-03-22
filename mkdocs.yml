@@ -1,0 +1,7 @@
+site_name: "THE QUANTUM OPERATOR'S GRIMOIRE: A First-Principles Manual for Reality Hacking"
+theme:
+  name: "material"
+nav:
+  - The Grimoire: index.md
+  - About: about.md
+  - License: license_page.md
