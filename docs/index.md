@@ -239,11 +239,13 @@ This protocol serves as the essential preliminary phase for effective reality en
 #### 1. DESIRE RECOGNITION (30-60 seconds)
 
 - **Intention Articulation**: Clearly state what outcome you wish to manifest
+
   - "I acknowledge my desire for [specific outcome]"
   - Experience this desire fully rather than suppressing it
   - Note any emotional charge associated with this desire
 
 - **Attachment Awareness**: Notice how this desire creates perceptual biases
+
   - Scan for ways this attachment might distort observation
   - Identify specific hopes that could compromise accurate assessment
   - Recognize where emotional investment might create blind spots
