@@ -885,10 +885,10 @@ This sophisticated integration system metabolizes the day's experiences into evo
 
 - **Deliberate State Navigation**:
   - Systematically move through different consciousness configurations:
-    - Focused attention (laser-like precision on single object)
-    - Open awareness (panoramic receptivity to all phenomena)
-    - Flow state (absorbed engagement with reduced self-reference)
-    - Meta-awareness (perception observing itself)
+  - Focused attention (laser-like precision on single object)
+  - Open awareness (panoramic receptivity to all phenomena)
+  - Flow state (absorbed engagement with reduced self-reference)
+  - Meta-awareness (perception observing itself)
   - Notice how different states reveal different aspects of reality
 
 #### 3. REALITY FEEDBACK PROCESSING (5-10 minutes)
@@ -907,9 +907,9 @@ This sophisticated integration system metabolizes the day's experiences into evo
 - **Pattern Amplification**:
   - Select most promising pattern for amplification
   - Create micro-ritual to encode this pattern:
-    - Symbolic representation (drawing, gesture, object arrangement)
-    - Statement of evolutionary intent: "This pattern evolves toward [specific outcome]"
-    - Physical anchor connecting today's pattern to tomorrow's experience
+  - Symbolic representation (drawing, gesture, object arrangement)
+  - Statement of evolutionary intent: "This pattern evolves toward [specific outcome]"
+  - Physical anchor connecting today's pattern to tomorrow's experience
 
 - **Next Experiment Selection**:
   - Based on today's results, select tomorrow's experimental filter
@@ -938,27 +938,27 @@ Transform your physical surroundings into a sophisticated reality engineering la
 
 - **Abstract-Direct Representation Spectrum**:
   - Create perception anchors using appropriate representation style:
-    - Abstract Sigils: Geometric patterns, non-representative symbols
-    - Direct Representation: Literal imagery, clear symbolic associations
-    - Quantum Nested: Abstract patterns containing subtle literal elements
+  - Abstract Sigils: Geometric patterns, non-representative symbols
+  - Direct Representation: Literal imagery, clear symbolic associations
+  - Quantum Nested: Abstract patterns containing subtle literal elements
 
 - **Multisensory Amplification Circuit**:
   - Pair visual anchors with additional sensory channels:
-    - Primary Visual Trigger: The environmental sigil
-    - Tactile Sequence: Specific finger touch pattern
-    - Respiratory Pattern: Designated breath sequence
-    - Vibrational Component: Internal vibration of anchor word
+  - Primary Visual Trigger: The environmental sigil
+  - Tactile Sequence: Specific finger touch pattern
+  - Respiratory Pattern: Designated breath sequence
+  - Vibrational Component: Internal vibration of anchor word
 
 - **Implementation Architecture**:
   - Phase 1: Association Protocol (Days 1-7)
-    - Load anchor with intention through deep meditation
-    - Perform complete sequence when encountering anchor
+  - Load anchor with intention through deep meditation
+  - Perform complete sequence when encountering anchor
   - Phase 2: Compression Protocol (Days 8-21)
-    - Place anchors throughout environment
-    - Gradually accelerate activation sequence
+  - Place anchors throughout environment
+  - Gradually accelerate activation sequence
   - Phase 3: Integration Protocol (Days 22+)
-    - Experience activation as single perception movement
-    - Develop state-specific variations for different contexts
+  - Experience activation as single perception movement
+  - Develop state-specific variations for different contexts
 
 #### 2. THE SACRED TECHNOLOGY STACK
 
@@ -1039,10 +1039,10 @@ This meta-system prevents perceptual calcification through strategic novelty inj
 
 - **Reality Distortion Experiments**:
   - Regular deployment of subtle perception hacks:
-    - "Selective Invisibility" → Move as if people literally cannot see you
-    - "Alternate Self Overlay" → Assume you're from another timeline
-    - "Manifested Symbolism" → Choose a random symbol as a reality message
-    - "All Is a Message" → Treat everything as reality communicating
+  - "Selective Invisibility" → Move as if people literally cannot see you
+  - "Alternate Self Overlay" → Assume you're from another timeline
+  - "Manifested Symbolism" → Choose a random symbol as a reality message
+  - "All Is a Message" → Treat everything as reality communicating
   - Observation of how reality appears to conform
   - Documentation of unexpected results or anomalies
 
@@ -1233,8 +1233,8 @@ To maintain filter pragmatism in practice:
 
 - **The "Keep or Kill" Protocol**:
   - For each practice, ask:
-    - "Does this create tangible reality shifts?"
-    - "Is this the most efficient way to achieve this effect?"
+  - "Does this create tangible reality shifts?"
+  - "Is this the most efficient way to achieve this effect?"
   - If no to either question, modify or replace
 
 - **Experimental Stance Maintenance**:
