@@ -4,14 +4,16 @@ Developed by Phillip Clapham and Dr. Elara Quinn for The Perceptual Research Con
 
 ---
 
-**Confidential Working Document**
-*For Internal Operator Use Only*
+**CONFIDENTIAL RESEARCH DOCUMENT**
+*For Internal Distribution/Operator Use Only - Clearance Level: Sigma*
 
 **NOTICE**: The following frameworks, principles, and protocols represent the current state of active research and application within the Perceptual Research Consortium (PRC). Developed in part under the supervision of our sponsors *TSC (The Superposition Commons)*, these materials embody the practical findings, first-principles engineering, and strategic mischief that define our daily reality-hacking operations.
 
 This document is subject to ongoing evolution and revision as field Operators, including [name_redacted] and [name_redacted], push the edges of consciousness research in real-time experiments. Treat it as the living, experimental lab notes of the PRC—not a finalized doctrine.
 
 **Dissemination**: Access restricted to personnel involved in perceptual engineering projects. Unauthorized use or disclosure is politely discouraged…for now.
+
+**Document Classification**: Theory Integration Matrix - Version 1.1
 
 **Note from A**: Great work! I’m excited to see how this evolves. I’ve added some notes and suggestions in the margins. Let’s keep the momentum going! Should we make this a public document? I think it could be a game-changer for the field. Before we do we should consider the implications of sharing this level of detail. I’m all for transparency, but we need to be careful about how we frame it. Maybe a more general overview would be better for public consumption? Let’s discuss.
 
@@ -1790,3 +1792,8 @@ Not everyone wants intense reality shifts, so calibrate each other’s comfort l
 Remember that you’re also operating within the broader “consensus reality.” A small group might create a sub-field that’s strong locally, but if you butt heads with a massive external group, you’ll feel more friction.
 
 **Multiplayer hacking** can yield amazing breakthroughs or confirm hunches that might remain ambiguous in solo mode. If you have even one partner (a friend, spouse, coworker) open to the idea, experiment lightly and compare logs. The synergy may surprise you.
+
+---
+
+*Document Classification: Theory Integration Matrix - Version 1.1*
+*Distribution Limitation: Internal Use Only - Sigma Clearance Required*
