@@ -1,5 +1,7 @@
 # **THE NEUROWEAVER META-FILTER: PERCEPTUAL ARCHITECTURE & REALITY SYNTHESIS THEORY**
 
+## **The Theory and Practice of Practical Reality Hacking**
+
 Developed by The Perceptual Research Consortium (2025), based on the foundational research of The Möbius Group (1974-1989).
 
 ---
