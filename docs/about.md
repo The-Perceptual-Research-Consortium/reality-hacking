@@ -1,10 +1,10 @@
-# **THE QUANTUM OPERATOR'S GRIMOIRE: A First-Principles Manual for Reality Hacking**
+# **THE NEUROWEAVER META-FILTER: PERCEPTUAL ARCHITECTURE & REALITY SYNTHESIS THEORY**
 
 A Perceptual Research Consortium Framework | Principal Investigator: Aspen Veil
 
-## **ABOUT THIS GRIMOIRE**
+## **ABOUT THIS MANUAL**
 
-THE QUANTUM OPERATOR'S GRIMOIRE: A First-Principles Manual for Reality Hacking is a practical introduction to reality hacking and the Neuroweaver framework, a comprehensive system for conscious reality creation. This manual provides an overview of the theoretical underpinnings of the framework, as well as practical implementation systems for applying the Neuroweaver principles in everyday life.
+THE NEUROWEAVER META-FILTER: PERCEPTUAL ARCHITECTURE & REALITY SYNTHESIS THEORY is a practical introduction to reality hacking and the Neuroweaver framework, a comprehensive system for conscious reality creation. This manual provides an overview of the theoretical underpinnings of the framework, as well as practical implementation systems for applying the Neuroweaver principles in everyday life.
 
 ## **ABOUT THE NEUROWEAVER FRAMEWORK**
 
