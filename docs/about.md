@@ -1,6 +1,6 @@
 # **THE NEUROWEAVER META-FILTER: PERCEPTUAL ARCHITECTURE & REALITY SYNTHESIS THEORY**
 
-A Perceptual Research Consortium Framework | Principal Investigator: Aspen Veil
+A Perceptual Research Consortium Framework | 2025 Edition
 
 ## **ABOUT THIS MANUAL**
 
