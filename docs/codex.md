@@ -1,4 +1,4 @@
-# THE NEUROWEAVER CODEX: PHILOSOPHICAL BRIDGES & EMPIRICAL EXTENSIONS
+# **THE NEUROWEAVER CODEX: PHILOSOPHICAL BRIDGES & EMPIRICAL EXTENSIONS**
 
 > *Where infinite possibility meets pragmatic constraint, and the cartography of consciousness reveals its most intriguing frontiers*
 
@@ -18,7 +18,7 @@ This document is subject to ongoing evolution and revision as field Operators, i
 
 ---
 
-## Introduction: The Complementary Architecture
+## **Introduction: The Complementary Architecture**
 
 Welcome to the Neuroweaver Codex—a specialized companion to the broader Neuroweaver framework that preserves and illuminates its most distinctive philosophical depths and empirical bridges. While the other documents in this trilogy focus on practical protocols and theoretical foundations, this codex delves into the rich philosophical underpinnings, scientific connections, and ethical nuances that give Neuroweaver its unique power.
 
@@ -38,7 +38,7 @@ So let us begin our journey into the philosophical depths and empirical frontier
 
 ---
 
-## The Nested Perception Fields Model: A Recursive Architecture of Reality Creation
+## **The Nested Perception Fields Model: A Recursive Architecture of Reality Creation**
 
 >*Note: In the spirit of Filter Pragmatism, the following model is offered not as absolute truth but as a particularly useful perceptual filter for understanding the relationship between individual and collective reality creation. Like all models in Neuroweaver, it should be evaluated based on its utility in generating insights and effective navigation rather than its correspondence to some hypothetical "ultimate reality."*
 
@@ -167,7 +167,7 @@ This Governance Paradox creates fascinating implications for perception engineer
 
 ---
 
-## Empirical Resonance: Different Instruments, Same Symphony
+## **Empirical Resonance: Different Instruments, Same Symphony**
 
 While Neuroweaver dances at the intersection of philosophy and practice rather than marching in the parade of scientific theory, fascinating harmonies emerge when we listen to both symphonies simultaneously. Like different instruments detecting overlapping frequencies of the same cosmic music, science and Neuroweaver often reveal complementary patterns in reality's magnificent composition.
 
@@ -235,7 +235,7 @@ Perhaps the most exciting frontier lies not in proving one approach through the 
 
 ---
 
-## The Reality Hacker's Meta-Paradox
+## **The Reality Hacker's Meta-Paradox**
 
 When Filter Pragmatism is applied to itself, we unlock the magnificent "truth-function collapse"—all propositions are simultaneously true (within some filtration system), false (within others), meaningless (without conscious intention), and profoundly meaningful (with it).
 
@@ -368,7 +368,7 @@ In short, **Neuroweaver** offers you the conceptual infrastructure to **treat ev
 
 ---
 
-## The Reality Medium: Beyond Either/Or
+## **The Reality Medium: Beyond Either/Or**
 
 The Nested Perception Fields Model invites us to consider the fascinating question of reality's fundamental nature—is it merely the product of collective perception waves, or does it exist as an independent substrate? Neuroweaver's paradox metabolism transforms this apparent dichotomy into a more sophisticated understanding where both perspectives reveal complementary truths.
 
@@ -388,7 +388,7 @@ This perspective honors both the creative power of perception and the stubborn i
 
 ---
 
-## The Poker Principle: Quantum Leverage in Reality's Card Game
+## **The Poker Principle: Quantum Leverage in Reality's Card Game**
 
 Reality operates less like a chess match with its clear rules and transparent possibilities, and more like a poker game—a dance of probability, psychology, and strategic timing where limited resources must be deployed for maximum impact. The Poker Principle reveals that mastery comes not through controlling every variable but through identifying high-leverage points where minimal intervention creates cascading effects across the system.
 
@@ -463,7 +463,7 @@ The Poker Principle exemplifies Neuroweaver's paradox metabolism at work in the 
 
 ---
 
-## The Filtration Immunity Principle: Preserving the Ecology of Perspective
+## **The Filtration Immunity Principle: Preserving the Ecology of Perspective**
 
 >*Wherein our mad scientist discovers that the infinite laboratory contains certain experimental agents that actively seek to dismantle the laboratory itself—presenting the magnificent paradox where unlimited exploration requires certain limits*
 
@@ -545,7 +545,7 @@ This isn't about censoring ideas—it's about protecting the lab so the mad scie
 
 ---
 
-## Intermission: Wave-Field Duality as Paradox Metabolism in Action
+## **Wave-Field Duality as Paradox Metabolism in Action**
 
 Before we dive into the implementation architecture, let's witness paradox metabolism in action through perhaps its most illuminating demonstration: wave-field duality. This interlude serves as our living bridge between philosophical understanding and practical methodology—the moment where conceptual alchemy transforms into experimental reality.
 
@@ -591,7 +591,7 @@ With this bridging principle in mind—this living demonstration of how theoreti
 
 ---
 
-## The Edge of the Map: Dragons, Portals & Uncharted Territories
+## **The Edge of the Map: Dragons, Portals & Uncharted Territories**
 
 Every great map contains not just carefully surveyed territories but tantalizing edges where known lands fade into possibility. The most honest cartographers acknowledge these frontiers with a mixture of humility and excitement—sometimes marking them with the delightful warning: "Here be dragons." Far from diminishing Neuroweaver's value, these edges of our current understanding represent the most thrilling invitation of all: the chance to become explorer rather than merely traveler, contributor rather than just consumer of the map.
 
