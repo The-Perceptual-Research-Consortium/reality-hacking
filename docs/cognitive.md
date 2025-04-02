@@ -1,6 +1,6 @@
-# 🌀 THE COGNITIVE ALCHEMIST 🌀
+# 🌀 **THE COGNITIVE ALCHEMIST** 🌀
 
-## A PRAXIS FOR TRANSMUTING PERCEPTION INTO ILLUMINATION
+## **A PRAXIS FOR TRANSMUTING PERCEPTION INTO ILLUMINATION**
 
 > *"The mind is not a vessel to be filled, but a fire to be kindled, and then—most crucially—a laboratory where that fire transmutes the raw elements of experience into gold."*
 
