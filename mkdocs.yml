@@ -2,7 +2,8 @@ site_name: "THE NEUROWEAVER META-FILTER: PERCEPTUAL ARCHITECTURE & REALITY SYNTH
 theme:
   name: "material"
 nav:
-  - Theory: index.md
+  - Beginners: index.md
+  - Theory: theory.md
   - Practice: practices.md
   - Codex: codex.md
   - Brain Training: cognitive.md
