@@ -4,6 +4,7 @@ theme:
 nav:
   - Theory: index.md
   - Practice: practices.md
+  - Codex: codex.md
   - About: about.md
   - License: license_page.md
 
